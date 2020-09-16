@@ -1,0 +1,19 @@
+Broken boo the dog errors:
+
+-Missing <h1> tag for Boo The Dog Fan Page text.
+
+-about boo body of text wasnt formatted so i put <p> tags in between paragraphs
+
+-Image link was missing a link
+
+-Formatted <div> tags by removing extras and cleaning up their positions
+
+-Added notes to explain what code was doing in sections 
+
+-Added quotation marks around JS "click" functions.
+
+-Added commas and quotaion marks in booFactsArray list
+
+-Fixed boxGrow and boxShrink functionality
+
+-Fixed color buttons by assigning the correct colors to the correct buttons.

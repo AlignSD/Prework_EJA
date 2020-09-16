@@ -1,0 +1,47 @@
+body {
+    background-color: Grey;
+}
+h1 {
+    color: black;
+    text-align: center;
+}  
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+.orange {
+    color: orange;
+}
+.big {
+    font-size: 25px;
+}
+.small {
+    font-size: 8px;
+}
+
+.center {
+    text-align:center;
+}
+.bold {
+    font-weight:bold;
+}
+.cursive {
+    font-family:cursive;
+}
+
+.styledFont {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+}
+#styledImage {
+    border-width: 3px;
+    border-style: solid;
+    border-color: red;
+}
+    
